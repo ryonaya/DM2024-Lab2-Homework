@@ -1,0 +1,104 @@
+The new feature in Revenant is:
+
+1. Sovereignty Hub: A new central location for players to manage their claims and interact with other players.
+2. New patterns for SKINR: Over 40 new patterns have been added, which can be found through gameplay in various locations around New Eden.
+
+Additionally, the text mentions that certain changes have been made to existing systems, such as:
+
+* Ongoing TCU campaigns will be cancelled if a Sovereignty Hub is not present.
+* TCUs can no longer be targeted by entosis and must be usurped by capturing the Sovereignty Hub instead.
+* Colony Resources are now required for Sovereignty Upgrades.
+
+However, it's worth noting that these changes are part of a larger expansion and are only available on June 20th, 2024.
+
+--------------------------------------------------
+
+The new feature in Equinox is the Sovereignty Hub system. This includes a number of changes and additions to the game's mechanics, including:
+
+* The ability for an attacker to capture a claim by capturing the Sovereignty Hub in the system
+* The introduction of Colony Resources, which are required to online certain upgrades (Sovereignty Upgrades)
+* New Sov Upgrades, Infrastructure Upgrades, PvE Upgrades, Mining Upgrades, and SuperCapital Construction Facilities
+
+Additionally, there are also changes related to TCU campaigns, TCUs, and ships such as the Deathless ships.
+
+--------------------------------------------------
+
+Based on the text, it appears that the new feature introduced in Havoc is the introduction of Sovereignty, which includes:
+
+* The ability for players to capture and claim sovereignty hubs
+* New Colony Resources (Power, Workforce, and Reagents) being used to upgrade sovereignity hubs
+* Changes to how TCU campaigns are handled
+* New patterns for SKINR
+
+However, it seems that the new feature is still in its early stages, as it hasn't yet had a Sovereignty Hub deployed or where the IHub hasn't yet transitioned.
+
+Additionally, there are some minor changes and updates to various game mechanics, such as:
+
+* Changes to the patterns hierarchy design element controls
+* The introduction of 40 new patterns for SKINR
+* Revised sequencing time for certain ships in Command Operation Systems
+
+But these seem to be relatively minor updates compared to the introduction of Sovereignty.
+
+--------------------------------------------------
+
+Based on the provided text, some of the new ships introduced in Revenant include:
+
+1. Mercenary Dens (deployable structure)
+2. Breacher Pod Launchers - Damage Over Time Weapons
+3. Ship with Webifier resistance (caldari and Minmatar battlecruiser bonuses)
+
+Note that there are also other ship-related updates mentioned, 
+such as the Deathless ships being available exclusively as blueprint copies from Deathless item traders, 
+but these three are specifically listed as new ships in Revenant.
+
+--------------------------------------------------
+
+Based on the Revenant expansion notes for EVE Online, a few of the new ship concepts include:
+
+1. Mercenary Dens: A deployable structure anchorable at skyhooks on temperate planets, which can be built using blueprints purchased in Zarzakh from the market in the Fulcrum.
+2. Breacher Pod Launchers - Damage Over Time Weapons: New weapon types that can be used by ships to attack enemies.
+3. SKINR Paragon Updates: A new extension to SKINR that allows capsuleers to design their own ship SKINs, with a robust palette of Design Elements and five customization slots.
+
+These are just a few examples of the new ship concepts and features introduced in the Revenant expansion.
+
+--------------------------------------------------
+
+Unfortunately, the provided text doesn't explicitly mention the new ships that will be added to the game. However, it does mention a few ship types and upgrades:
+
+1. Breacher Pod Launchers - Damage Over Time Weapons
+2. Small and Medium Breacher Pod Launchers (with specific role bonuses)
+3. Deathless ships (available exclusively as blueprint copies from Deathless item traders)
+
+It's likely that the text will provide more information about new ships in a future expansion or patch note update.
+
+If you're looking for more information on the new ships, I recommend checking out other sources or waiting for official updates from EVE Online.
+
+--------------------------------------------------
+
+No, a Cenotaph cannot fit a Covert Ops Cloaking Device. According to the text, a Cenotaph can fit certain modules and components, such as:
+
+* One Small Breacher Pod Launcher
+* One Medium Breacher Pod Launcher
+* One Metenox Moon Drill (with its unique reinforcement flow)
+
+However, there is no mention of a Covert Ops Cloaking Device being compatible with a Cenotaph. The text does provide information on the fittings and attributes that can be used with a Cenotaph, but it specifically lists these modules and components as those that can fit, not the Covert Ops Cloaking Device.
+
+--------------------------------------------------
+
+Unfortunately, the provided text does not mention any payout for a group of 5 players after the Equinox expansion. It appears that the text is focused on describing the various ship bonuses, traits, fittings, and attributes available in the game, as well as changes to the game's mechanics during the Equinox expansion.
+
+However, I can suggest some possible ways to find the payout information:
+
+1. Check the official EVE Online website or forums for updates on the Equinox expansion and its payouts.
+2. Look for community-created resources or wikis that provide detailed information about the Equinox expansion and its mechanics.
+3. Check the game's in-game UI or NPC dialogue for any mention of payouts or rewards.
+
+If you have any more specific information or context about the payout, I may be able to help further.
+
+--------------------------------------------------
+
+Unfortunately, the text does not provide information on how many Capital Propulsion Engines are needed to build a Komodo after Havoc expansion. The provided context is about Sovereignty Hubs, TCU campaigns, and changes to Command Operation Systems, but it doesn't mention anything about the construction of capital ships like the Komodo.
+
+--------------------------------------------------
+
